@@ -1,6 +1,4 @@
-# Prjct_Blazor_Electron
-
-
+﻿
 1 Create Blazor Server application 
 
 2 dotnet add package ElectronNET.API
